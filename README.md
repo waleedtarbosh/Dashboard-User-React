@@ -7,7 +7,7 @@ The dashboard user management system is a web application built with React (Func
 
 <div>Users Listing Page</div>
 <!-- Programmer  Image -->
-<img align="center" width="350" src="/README-PIC/1.png" alt="" /> 
+<img align="center" justify-content="center" width="350" src="/README-PIC/1.png" alt="" /> 
 <br>
 <div>User Details Page </div>                                                                                                                                           
 <!-- Programmer  Image -->
