@@ -7,24 +7,24 @@ The dashboard user management system is a web application built with React (Func
 
 <div>Users Listing Page</div>
 <!-- Programmer  Image -->
-<img align="left" width="500" src="/README-PIC/1.png" alt="" /> 
+<img align="left" width="350" src="/README-PIC/1.png" alt="" /> 
 
 <div>User Details Page </div>                                                                                                                                           
 <!-- Programmer  Image -->
-<img align="right" width="500" src="/README-PIC/2.png" alt="" />
+<img align="center" width="350" src="/README-PIC/2.png" alt="" />
 
-<br>
+
 <div>Phone  </div>  
 <!-- Programmer  Image -->
-<img align="left" width="350" src="/README-PIC/4.png" alt="" />  
+<img align="right" width="350" src="/README-PIC/4.png" alt="" />  
 
 <div>Ipad </div>  
 <!-- Programmer  Image -->
-<img align="right" width="350"  src="/README-PIC/3.png" alt="" />   
+<img align="left" width="350"  src="/README-PIC/3.png" alt="" />   
  
 <div>Filter by Nationality and Gender</div>                                                                         
 <!-- Programmer  Image -->
-<img align="center" width="400" src="/README-PIC/5.png" alt="" /> 
+<img align="right" width="400" src="/README-PIC/5.png" alt="" /> 
 
 
 
