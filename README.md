@@ -5,23 +5,23 @@
 
 The dashboard user management system is a web application built with React (Functional), React-Router, and Material UI. It provides a user-friendly interface for managing users' data, such as name, address, email, phone number, and more. The application has two screens: the Users Listing Page and the User Details Page. Users Listing Page contains a table that displays users' data, filtered by gender and nationality, with server-side pagination. The User Details Page displays detailed information about a specific user, accessible by clicking on the user's row in the Users Listing Page.
 
-
+<div>Users Listing Page</div>
 <!-- Programmer  Image -->
 <img align="left" width="350" src="/README-PIC/1.png" alt="" /> 
-                                                                       
-                                                                       
+
+<div>User Details Page </div>                                                                                                                                           
 <!-- Programmer  Image -->
 <img align="right" width="350" src="/README-PIC/2.png" alt="" />
 
-
+<div>Phone  </div>  
 <!-- Programmer  Image -->
 <img align="left" width="350" src="/README-PIC/4.png" alt="" />  
 
-
+<div>Ipad </div>  
 <!-- Programmer  Image -->
 <img align="right" width="350"  src="/README-PIC/3.png" alt="" />   
  
-                                                                        
+<div>Filter by Nationality and Gender</div>                                                                         
 <!-- Programmer  Image -->
 <img align="center" width="400" src="/README-PIC/5.png" alt="" /> 
 
