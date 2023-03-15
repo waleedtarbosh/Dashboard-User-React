@@ -8,8 +8,14 @@ The dashboard user management system is a web application built with React (Func
 
 <!-- Programmer  Image -->
 <img align="left" width="350" src="/README-PIC/1.png" alt="" />   
-
-
+<!-- Programmer  Image -->
+<img align="right" width="350" src="/README-PIC/2.png" alt="" />
+<!-- Programmer  Image -->
+<img align="left" width="350" src="/README-PIC/5.png" alt="" /> 
+<!-- Programmer  Image -->
+<img align="left" width="350" src="/README-PIC/3.png" alt="" />   
+<!-- Programmer  Image -->
+<img align="right" width="350" src="/README-PIC/4.png" alt="" />   
 
 # Table of Contents
 1. How to Install and Run the Project
