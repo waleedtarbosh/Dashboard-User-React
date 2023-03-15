@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.links-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.link-item {
+  font-size: 1.2rem;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.link-item:hover {
+  background-color: #fff;
+  color: #333;
+}
+
+.main-container {
+  display: flex;
+  height: 100vh;
+}
+
+.content-container {
+  flex: 1;
+  padding: 20px;
+}

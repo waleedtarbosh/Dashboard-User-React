@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+
+.custom-alert {
+    font-family: 'Mulish';
+    position: fixed;
+    top: 50%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    width: 550px;
+    height:720px;
+    right: 0;
+    transform: translate(0, -50%);
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: 10px;
+    z-index: 9999;
+  }
+
+  .custom-alert .background {
+    position: absolute;
+    width: 580px;
+    height: 158px;
+    left: 0px;
+    top: 0px;
+    background: #528CFC;
+  }
+  
+  .custom-alert .content {
+    position: absolute;
+    top: 12%;
+    left: 15%;
+    width:fit-content;
+   
+
+  }
+  
+  .custom-alert .name {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #252733;
+    margin-right: 150px !important;
+  }
+  
+  .custom-alert .address {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    color: #87888C;
+    margin-top: 20px;
+    margin-right: 80px !important;
+  }
+
+.user-info{
+ padding: 20px !important;
+ width: 100%;
+
+}
+.img-alert {
+  margin-left: 118px !important;
+}
+
+.custom-alert .close-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.details-button{
+  display: none;
+}
+tr:hover {
+  background-color: #f7f8ff;
+}
+@media (max-width: 1400px) {
+
+  .custom-alert {
+    width: 480px;
+    height:1080px;
+  }
+
+  .custom-alert .name {
+
+    margin-right: 100px !important;
+  }
+  .img-alert {
+    margin-left: 115px !important;
+  }
+  .custom-alert .content {
+
+    top: 8%;
+    left: 15%;
+
+   
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 575px) {
+  .table-container {
+    padding:0px;
+   
+  }
+  .MuiTypography-h6 {
+    font-size: 11px !important;
+  }
+  .MuiToolbar-root {
+    display: none;
+  
+
+  }
+
+  .MuiTableCell-head {
+    font-size: 4px !important;
+  
+
+  }
+
+  .MuiTableCell-body {
+    font-size: 4px !important;
+   
+
+  }
+
+  .MuiTableCell-root {
+  
+    width: 3px; /* set a specific width */
+    
+    font-size: 4px !important;
+   
+  }
+  .small-cell {
+    width: 10% !important;
+    max-width: 10% !important; 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+  }
+
+  .content-container {
+    flex: 0;
+    padding: 0px;
+  }
+
+
+
+
+
+
+
+
+  .custom-alert {
+    position: fixed;
+    top: 50%;
+   
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    width: 200px;
+    height:400px;
+    right: 0;
+    transform: translate(0, -50%);
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: 10px;
+    z-index: 9999;
+  }
+
+
+  .custom-alert .background {
+    position: absolute;
+    width: 220px;
+    height: 158px;
+    left: 0px;
+    top: 0px;
+    background: #528CFC;
+  }
+
+
+
+  .img-alert {
+    margin-left: 10px !important;
+  }
+  }
